@@ -15,6 +15,8 @@ Next.js (App Router)
 Tailwind CSS v4
 CoinGecko API para dados de mercado
 Fontes: Inter (texto) e IBM Plex Mono (números)
+
+
 Estrutura do projeto
 src/
   app/
@@ -27,6 +29,9 @@ src/
     Navbar.jsx         # Barra de navegação
     Ticker.jsx          # Faixa de cotações animada
     Cards.jsx           # Cards de moedas em destaque
+
+
+    
 Rodando localmente
 bash
 npm install
