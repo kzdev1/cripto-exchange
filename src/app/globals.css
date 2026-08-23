@@ -2,7 +2,7 @@
 
 @theme inline {
   --color-bg: #0a0e0f;
-  --color-panel: #12171a;
+  --color-panel3: #12171a;
   --color-panel2: #1a2226;  
   --color-border-custom: #1f2a2e;
   --color-text-primary: #e4e9ea;
@@ -10,6 +10,7 @@
   --color-accent: #ffb000;
   --color-up: #3ddc84;
   --color-down: #ff5c5c;
+  --color-panel: #1a2228;
 
   --font-sans: var(--font-sans);
   --font-mono: var(--font-mono);

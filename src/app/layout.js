@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "../components/Navbar.jsx";
 import Ticker from "../components/Ticker.jsx";
 
+
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
